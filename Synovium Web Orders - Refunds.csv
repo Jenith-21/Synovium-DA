@@ -1,0 +1,49 @@
+Order Number,Order Status,Order Date,Month,Weekday,Customer ID,City,Postcode,Postcode Area,Country,Payment Method,Cart Discount Amount,Order Subtotal Amount,Order Shipping Amount,Order Refund Amount,Order Total Amount,SKU,Product Name,Product Family,Quantity,Item Cost,Discount Amount,Order Count
+16777,Refunded,08/09/2026 07:43,2026-09,Tuesday,C0115,Wrexham,LL13 0NA,LL,GB,Link,0,-9,0,0,-9,,,,,,0,1
+16693,Refunded,02/09/2026 21:10,2026-09,Wednesday,C0146,Wigan,WN2 1LL,WN,GB,Credit / Debit Card,0,-7.8,0,0,-7.8,,,,,,0,1
+16523,Refunded,17/08/2026 20:18,2026-08,Monday,C0238,Stafford,ST18 0HQ,ST,GB,Link,0,-26.36,-6.98,0,-33.34,,,,,,6.59,1
+16572,Refunded,16/08/2026 11:40,2026-08,Sunday,C0115,Penley,LL13 0NA,LL,GB,Credit / Debit Card,0,-32.95,0,0,-32.95,,,,,,0,1
+16540,Refunded,12/08/2026 13:05,2026-08,Wednesday,C0115,Penley,LL13 0NA,LL,GB,Credit / Debit Card,0,-32.95,0,0,-32.95,,,,,,0,1
+16102,Refunded,27/07/2026 11:29,2026-07,Monday,C0380,Penkridge,ST19 5RT,ST,GB,Link,0,-22.2,0,0,-22.2,,,,,,0,1
+16308,Refunded,20/07/2026 20:26,2026-07,Monday,C0418,Martock,TA12 6JZ,TA,GB,Apple Pay (Stripe),0,-109.6,-6.98,0,-116.58,,,,,,27.4,1
+15997,Refunded,25/06/2026 11:49,2026-06,Thursday,C0192,Stranraer,DG9 9ND,DG,GB,Apple Pay (Stripe),0,-30,0,0,-30,,,,,,0,1
+15910,Refunded,24/06/2026 12:24,2026-06,Wednesday,C0582,St Briavels,GL15 6SJ,GL,GB,Credit / Debit Card,0,0,-6.25,0,-6.25,,,,,,0,1
+15927,Refunded,22/06/2026 20:11,2026-06,Monday,C0269,Milton-Under-Wychwood,OX7 6LR,OX,GB,Link,0,-79.99,0,0,-79.99,,,,,,5.21,1
+15568,Refunded,02/06/2026 20:03,2026-06,Tuesday,C0702,Conwy,LL32 8SW,LL,GB,Apple Pay (Stripe),0,-26.36,0,0,-26.36,,,,,,6.59,1
+15470,Refunded,20/05/2026 10:18,2026-05,Wednesday,C0397,Longford,GL2 9FF,GL,GB,Apple Pay (Stripe),0,0,-6.98,0,-6.98,,,,,,0,1
+15535,Refunded,15/05/2026 13:37,2026-05,Friday,C0800,Bodmin,PL31 2RE,PL,GB,Google Pay (Stripe),0,-26.36,-6.98,0,-33.34,,,,,,6.59,1
+15131,Refunded,12/04/2026 18:02,2026-04,Sunday,C0975,"Authorpe, Lincolnshire",LN11 8PG,LN,GB,Apple Pay (Stripe),0,0,-1.4,0,-1.4,,,,,,6.59,1
+13398,Refunded,11/03/2026 14:29,2026-03,Wednesday,C0617,Bristol,BS30 6EH,BS,GB,Link,0,-2.64,0,0,-2.64,,,,,,0,1
+14663,Refunded,04/03/2026 12:23,2026-03,Wednesday,C1151,Newcastleton,TD9 0LY,TD,GB,PayPal,0,0,-3.45,0,-3.45,,,,,,6.59,1
+14167,Refunded,15/02/2026 21:46,2026-02,Sunday,C1026,North Walsham,NR28 0BA,NR,GB,Apple Pay (Stripe),0,-31.3,0,0,-31.3,,,,,,0,1
+14549,Refunded,08/02/2026 14:11,2026-02,Sunday,C1225,Bolton,BL2 6DG,BL,GB,PayPal,0,-90.89,-6.9,0,-97.79,,,,,,10.1,1
+14316,Refunded,12/01/2026 19:29,2026-01,Monday,C1295,Ashford,TN27 9AP,TN,GB,PayPal,0,-11.4,0,0,-11.4,,,,,,18.29,1
+14134,Refunded,11/12/2025 19:40,2025-12,Thursday,C1367,,,,Unknown,PayPal,0,-0.83,0,0,-1,,,,,,0,1
+14133,Refunded,11/12/2025 19:40,2025-12,Thursday,C1367,,,,Unknown,Credit / Debit Card,0,-0.83,0,0,-1,,,,,,0,1
+14097,Refunded,03/12/2025 14:41,2025-12,Wednesday,C0115,Penley,LL13 0NA,LL,GB,Credit / Debit Card,0,-7.08,0,0,-8.5,,,,,,0,1
+13814,Refunded,21/10/2025 19:16,2025-10,Tuesday,C1167,Gloucester,GL19 3SB,GL,GB,Credit / Debit Card,0,-66.94,-4.99,0,-71.93,,,,,,3.36,1
+13736,Refunded,12/10/2025 09:58,2025-10,Sunday,C1484,Hartlepool,TS25 3AG,TS,GB,Credit / Debit Card,0,-4.5,0,0,-4.5,,,,,,18,1
+13640,Refunded,28/09/2025 18:06,2025-09,Sunday,C0124,Buntingford,SG9 9NZ,SG,GB,Link,0,-101.15,-4.99,0,-106.14,,,,,,17.85,1
+13541,Refunded,17/09/2025 12:22,2025-09,Wednesday,C0115,Penley,LL13 0NA,LL,GB,Credit / Debit Card,0,-29.66,0,0,-29.66,,,,,,3.29,1
+13343,Refunded,19/08/2025 08:32,2025-08,Tuesday,C1103,Cuddington,SY14 7BQ,SY,GB,Link,0,-29.66,-4.99,0,-34.65,,,,,,3.29,1
+13050,Refunded,18/07/2025 20:37,2025-07,Friday,C1089,Elham,CT4 6NG,CT,GB,PayPal,0,-16.48,0,0,-16.48,,,,,,16.47,1
+12951,Refunded,08/07/2025 21:48,2025-07,Tuesday,C1717,Longside Peterhead,AB42 4YX,AB,GB,PayPal,0,-150,-9.99,0,-159.99,,,,,,0,1
+12630,Refunded,12/06/2025 19:57,2025-06,Thursday,C0269,Milton-Under-Wychwood,OX7 6LR,OX,GB,PayPal,0,-77.97,0,0,-77.97,,,,,,14.14,1
+12575,Refunded,12/06/2025 16:34,2025-06,Thursday,C1094,Broxburn,EH52 6QA,EH,GB,Link by Stripe,0,0,-6.98,0,-6.98,,,,,,0,1
+12402,Refunded,27/05/2025 13:31,2025-05,Tuesday,C0607,Leicester,LE7 3BJ,LE,GB,Link by Stripe,0,0,-6.98,0,-6.98,,,,,,3.29,1
+12444,Refunded,27/05/2025 06:58,2025-05,Tuesday,C1902,Blandford,DT11 0QT,DT,GB,PayPal,0,-52,-4.99,0,-56.99,,,,,,0,1
+11873,Refunded,07/05/2025 11:44,2025-05,Wednesday,C1980,Worcester Park,KT4 7QN,KT,GB,MasterCard ending in 9332,0,-120,0,0,-120,,,,,,30,1
+11955,Refunded,16/04/2025 19:48,2025-04,Wednesday,C1501,"Gamlingay, South Cambridgeshire",SG19 3NR,SG,GB,PayPal,0,0,0,0,-23.18,,,,,,1.8,1
+11616,Refunded,11/04/2025 14:47,2025-04,Friday,C2113,Winchcombe,GL54 5AT,GL,GB,PayPal,0,-29.66,-4.99,0,-34.65,,,,,,3.29,1
+11717,Refunded,01/04/2025 14:02,2025-04,Tuesday,C2162,Ely,CB6 2ER,CB,GB,Visa ending in 5398,0,-29.66,-6.98,0,-36.64,,,,,,3.29,1
+11482,Refunded,09/03/2025 19:33,2025-03,Sunday,C2277,Huntingdon,PE29 3HA,PE,GB,Apple Pay (WooPayments),0,-29.66,-4.99,0,-34.65,,,,,,3.29,1
+11306,Refunded,20/02/2025 14:09,2025-02,Thursday,C2366,Weare,BS26 2LA,BS,GB,Visa credit card,0,0,-6.98,0,-6.98,,,,,,13.18,1
+11065,Refunded,18/02/2025 19:22,2025-02,Tuesday,C2375,"Catshill, Bromsgrove",B61 0TR,B,GB,PayPal,0,-29.66,0,0,-29.66,,,,,,3.29,1
+11189,Refunded,16/02/2025 20:20,2025-02,Sunday,C1274,Wokingham,RG40 4RX,RG,GB,PayPal,0,-10.6,0,0,-10.6,,,,,,2,1
+11193,Refunded,11/02/2025 19:45,2025-02,Tuesday,C2209,Chulmleigh,EX18 7BB,EX,GB,Apple Pay (WooPayments),0,-10.36,0,0,-10.36,,,,,,0,1
+10860,Refunded,15/01/2025 16:05,2025-01,Wednesday,C1274,Wokingham,RG40 4RX,RG,GB,PayPal,0,0,0,0,-1.99,,,,,,10.1,1
+10572,Refunded,03/01/2025 14:14,2025-01,Friday,C2587,Devizes,SN10 2LJ,SN,GB,Credit card / debit card,0,-32,0,0,-32,,,,,,0,1
+10578,Refunded,16/12/2024 14:44,2024-12,Monday,C2639,Macclesfield,SK10 5ES,SK,GB,PayPal,0,0,0,0,-35,,,,,,0,1
+10453,Refunded,26/11/2024 20:32,2024-11,Tuesday,C2702,Yarm,TS15 9SL,TS,GB,Apple Pay (WooPayments),0,-2.34,0,0,-2.34,,,,,,0,1
+9845,Refunded,14/10/2024 21:57,2024-10,Monday,C2479,Worcester,WR7 4JZ,WR,GB,Credit / Debit Card,0,0,-6.98,0,-6.98,,,,,,0,1
+9170,Refunded,14/10/2024 08:50,2024-10,Monday,C2811,Spalding,PE12 0PA,PE,GB,Klarna,0,0,0,0,-32,,,,,,0,1
