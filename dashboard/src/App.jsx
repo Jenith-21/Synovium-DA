@@ -28,10 +28,10 @@ import {
 import { gbp, gbpCompact, integer, pct, signedPct, signedPp } from "./format";
 import { YEAR_ONE, YEAR_TWO } from "./charts";
 import UkMap from "./UkMap";
-import cleanCsv from "../../Synovium Web Orders - Clean Data.csv?raw";
-import skuCsv from "../../Synovium Web Orders - SKU Lookup.csv?raw";
-import refundsCsv from "../../Synovium Web Orders - Refunds.csv?raw";
-import mailCsv from "../../Synovium Mailerlite Subscriptions.csv?raw";
+import cleanCsv from "../data/clean-data.csv?raw";
+import skuCsv from "../data/sku-lookup.csv?raw";
+import refundsCsv from "../data/refunds.csv?raw";
+import mailCsv from "../data/mailerlite.csv?raw";
 
 const TABS = [
   ["overview", "Overview", "grid"],
